@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @johanjino
 - 💻 I’m interested in Software development, Programming, Digital Electronics and Signal Processing
+- 📚 Experience with Python and MySQL
 - 🌱 I’m currently learning C++ ,MATLAB
 - 📫 Reach me at johanjinoj@gmail.com
