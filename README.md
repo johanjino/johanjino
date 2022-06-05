@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johanjino
-- 💻 I’m interested in Software development, Programming, Digital Electronics and Signal Processing
+- 💻 I’m interested in Software development, Programming, Digital Electronics and Computer Architecture
 - 📚 Experience with Python and C++.
 - 🌱 I’m currently learning TensorFlow Library
 - 📫 Reach me at johanjinoj@gmail.com
