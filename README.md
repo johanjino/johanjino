@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johanjino
-- 💻 I’m interested in Software development, Programming, Computer Architecture
-- 📚 Experience with Python and C++.
+- 💻 I’m interested in Software development, Compilers and Computer Architecture
+- 📚 Experience with C++, Python, SystemVerilog.
 - 🌱 I’m currently learning TensorFlow Library
 - 📫 Reach me at johanjinoj@gmail.com
 
