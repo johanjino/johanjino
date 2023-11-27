@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Johan
 
-[![Website](https://img.shields.io/badge/My%20Website%20style-20B2AA?style=for-the-badge)](https://johanjino.github.io/)
+[![Website](https://img.shields.io/badge/My%20Website?style=for-the-badge)](https://johanjino.github.io/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/johan-jino-student/)](https://www.linkedin.com/in/johan-jino-student/)
 
 - 💻 I’m interested in Software development, Compilers and Computer Architecture
