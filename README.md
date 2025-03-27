@@ -7,7 +7,7 @@
 - 💻 I’m interested in FPGA Digital Design, HPC Software Dev and Computer Architecture.
   - FPGAs : Latency/Throughput driven designs, Resource/Target Aware Neural Network mappings, Custom Mathematical Function Acceleration.
   - HPC Software : Concurrency, Distributed Systems, Parallel computing (Using GPUs, SIMD Vectorisation, Software to ASIC)
-  - Computer Arch : Hardware Aware Compiler Optimisations, Profile Guided Optimisations, Application Specific CPU/SoC Design (Ex: [Tesla Dojo](https://en.wikipedia.org/wiki/Tesla_Dojo), Signal Processing MCUs/DSPs)
+  - Computer Arch : Hardware Aware Compiler Optimisations, Profile Guided Optimisations, Application Specific CPU/SoC Design
 - 📚 Experienced Languages: C/C++, Python, SystemVerilog/Verilog, [Maxeler](https://www.maxeler.com/technology/dataflow-computing/) (Hardware Design DSL), Bash
 - 🔬 Experienced Tools: Intel Quartus, Intel VTune Profiler, Perf, Docker, Kubernetes, PyTorch/TensorFlow, Verilator/ModelSim.
 - 🌱 Love reading science and medicine just to know more about who I am 👨, where we are 🌍 and where we can go 🚀.
